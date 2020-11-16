@@ -1,0 +1,1667 @@
+%%pageheight     21.0cm
+%%staffwidth     12.3cm
+
+%%titlefont	 * 12.0
+%%composerfont   * 10.0
+
+%%topmargin      1.00cm
+%%botmargin      1.00cm
+%%leftmargin     1.20cm
+
+%%topspace       0.6cm
+%%titlespace     0.0cm
+%%subtitlespace  0.0cm
+%%composerspace  0.0cm
+%%musicspace     0.2cm
+%%partsspace     0.0cm
+%%wordsspace	 0.0cm
+
+%%scale 0.48
+
+X:1
+T:1 Ashley's Hornpipe
+C:Welch MS 
+I:abc2nwc
+M:C
+L:1/8
+K:G
+GABc dBAG|gfge d3c/2B/2|BdBG cecA|BdBG GFED|
+GABc dBAG|gfge e2dc|BdBG cecA|G2F2G4:|
+defg fafd|fage fafd|defg afed|BdBG FAFD|
+BdBG cecA|fafd gage|dgfe dcBA|G2F2G4:|
+
+
+X:2
+T:2 The College Hornpipe
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:D
+fe|d2D2DEFG|A2d2d2cd|e2E2EFGA|B2e2e2dc|
+defg a2gf|gefd c2BA|BcdB cdeg|f2d2d2:|
+AG|FAdA FAdA|B2G2G2B2|GBdB GBdB|c2A2A2dc|
+defg a2gf|gefd c2BA|BcdB cdeg|f2d2d2:|
+
+
+X:3
+T:3 Del Caros Hornpipe
+C:Welch MS
+I:abc2nwc
+M:4/4
+L:1/8
+K:G
+G3/2B/2 d3/2g/2 f3/2e/2 d3/2e/2|d3/2c/2 B3/2A/2 B3/2c/2 d2|G3/2B/2 d3/2g/2 f3/2e/2 d3/2c/2|B3/2A/2 G3/2F/2 G2G2:|
+G3/2B/2 d3/2g/2 e/2f/2g e/2f/2g|D3/2F/2 A3/2c/2 B/2c/2d B/2c/2d|G3/2B/2 d3/2g/2 e/2f/2g e/2f/2g|B3/2A/2 G3/2F/2 G2G2:|
+
+X:4
+T:4 The First of June
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:C
+gf|e2c2c2de|f2d2d2ef|agfe fedc|BcdB G2gf|
+e2c2c2de|f2d2d2ef|g2a2dcde|c2c2c2:|
+ef|.g2.g2.a2.a2|.f2.f2.g2.g2|.e2.e2.f2.f2|dcde d2ef|
+.g2.g2.a2.a2|.f2.f2.g2.g2|.e2.e2.f2.f2|edcB c2:|
+
+
+X:5
+T:5 From Night Till Morn
+C:Welch MS
+N:Meic's version didn't load completely.
+N:This is an attempt at reconstruction from what there was
+N:and listening to Will and Dan's CD
+I:abc2nwc
+M:C
+L:1/8
+K:G
+AG|F2F2F2D2|EDEF D2EF|GFED DEFG|A3B/2G/2 F2AG|
+F2F2F2D2|EDEF D2EF|GFED DEFD|E4D2:|
+z2|DEFG A2A2|A2B2A4|B2A2d2F2|A3B/2G/2 F2AG|
+F2F2F2D2|EDEF D2EF|GFED DEFG|A3B/2G/2 F2AG|
+F2F2F2D2|EDEF D2EF|GFED DEFD|E4D2:|
+
+
+X:6
+T:6 The Gypsies Hornpipe
+I:abc2nwc
+M:C
+L:1/8
+K:C
+z2|CE GA c2ce|dc BA G2G2|ce gc' c'g fe|dc BA GF ED|
+CE Gc c2ce|dc BA G2de|fe dc ed cB|c2c2c2:|
+e2|ge ge ba gf|fe dc d2e2|fd fd gf ed|ed cB c2GE|
+CE Gc c2ce|dc BA G2de|fe dc ed cB|c2c2c2:|
+
+X:7
+T:7 Hereford Hornpipe
+C:Aylmore MS
+I:abc2nwc
+M:C
+L:1/8
+K:G
+GA|B2B2BdBG|c2c2BdBG|A2G2ABcA|B2G2G2GA|
+B2B2BdBG|cBcd edef|gedB cAGF|G2G2G2:|
+GA|d2B2gfge|e2d2dcBc|d2B2gfgd|e2d2dcBA|
+GdBd GdBd|Aece Aece|GdBd GdBd|DAFA DAFA|
+GdBd GdBd|cBcd edef|gedB cAGF|G2G2G2|]
+
+X:8
+T:8 Lord Cornwallis' Hornpipe
+C:Welch Ms
+N:Final rest in A music added by MG
+I:abc2nwc
+M:C
+L:1/8
+K:D
+A|d2dA FGAF|D2d2d2e2|gaba gfed|cdBc A2GF|
+G2eG F2dF|EFGA GFED|Dc'gf gedc|d2d2d2z:|
+a| (3(faf) d2 (3(faf) d2|c'2g2g2a2| (3(gbg) e2 (3(gbg) e2|c'2a2a2ag|
+gabg fgaf|efge dcBA|Aagf gedc|d2d2d2z:|
+
+X:9
+T:9 Miss Baker's Hornpipe
+C:Aylmore MS
+I:abc2nwc
+M:C
+L:1/8
+K:G
+dc|A2G2-GBAG|FA c2cedc|Bdef gdec|B2G2G2:|
+(3def|gdBd gbag|afdf ac'ba|bgaf geag|f2d2d2gd|
+(3efg (3Bcd c2c'b|agfe ddcB|(3cde (3FGA Gedc|B2G2G2:|
+
+
+X:10
+T:10 The New Speed The Plough
+C:Welch MS
+N:bar2 1st E dotted in STB, presumably by mistake
+I:abc2nwc
+M:C
+L:1/8
+K:G
+G3/2D/2B,3/2D/2 G3/2B/2d3/2B/2|c3/2e/2g3/2e/2 d3/2B/2A3/2G/2|c3/2e/2c3/2A/2 B3/2d/2B3/2G/2|F3/2G/2A3/2B/2 A2A2|
+G3/2D/2B,3/2D/2 G3/2B/2d3/2B/2|c3/2e/2g3/2e/2 d3/2B/2A3/2G/2|c3/2e/2c3/2A/2 B3/2d/2B3/2G/2|c3/2A/2F3/2A/2 G2G2:|
+G3/2G/2G3/2G/2 G3/2B/2d3/2g/2|G3/2G/2G3/2G/2 A3/2F/2E3/2D/2|G3/2G/2G3/2G/2 G3/2B/2d3/2g/2|e3/2d/2c3/2B/2 A2A2|
+G3/2G/2G3/2G/2 G3/2B/2d3/2g/2|G3/2G/2G3/2G/2 A3/2F/2E3/2D/2|G3/2G/2G3/2G/2 G3/2B/2d3/2g/2|c3/2A/2F3/2A/2 G2G2:|
+
+X:11
+T:11 The New Castle Hornpipe
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:G
+gd|B2B2BcAB|G2G2GABc|dBdB edcB|BAcA GFED|
+B2B2Bdce|d2d2d2gf|edcB AGFE|D2D2D2:|
+GA|B2B2B2AB|cBAG GFED|d2d2d2ef|gfgd cBAG|
+e2e2egfg|dgfg dBGB|cBcA BGAF|G2G2G2:|
+
+
+X:12
+T:12 Richer's Hornpipe
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:G
+Bc3/4|dBdB G2BG|AFAF D2CB,|CDEF GABc|AFDF A2Bc|
+dBdB G2BG|AFAF D2CB,|C2e2dBcA|G2[G2g2][G2g2]:|
+GA|BGAF E2cd|e2A2A2FG|AFAF D2Bc|d2G2G2d2|
+e2ge dBdB|e2ge dBdB|c2e2dBcA|G2[G2g2][G2g2]:|
+
+
+X:13
+T:13 Salt Fish And Dumplings
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:G
+BA|G3G GABc|efge dBAG|c3e dBAG|F2A2A2AB|
+c3d efge|dBAG F3A|GcAc BdAc|B2G2G2:|
+g2|dBGB d3e|d2G2BcdB|cBcd efga|f2d2d2cB|
+cBcd efgd|cBAG FAdB|BdfB ABcd|B2G2G2:|
+
+
+X:14
+T:14 Stone Steps Hornpipe
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:G
+GABc d2g2|ecAG GFED|ECB,C A,2B2|cecA GFED|
+GABc d2g2|ecAG GFED|ECB,C A,2B2|cAGF G2G2:|
+DEFG ABcA|BcdA GFED|EFGE D2g2|fed^c d2d2|
+ecBA dBAG|cecA GFED|ECB,C A,2B2|cAGF G2G2:|
+
+
+X:15
+T:15 Untitled Hornpipe (Back of the Haggard)
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:D
+A2|dfdf ecAc|dGBd AFDF|EGFA Gged|c2A2A2Bc|
+dA A2fd d2|ge e2aA A2|BdGB AGFE|D2D2D2:|
+A2|dAdA FAFA|BGFG BGdB|gefd ecdB|cdec AGFE|
+Fd d2ce e2|df f2eg g2|fafd Bgec|d2d2d2:|
+
+
+X:16
+T:16 Untitled Hornpipe
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:G
+D2|GBdB edcB|ABcA GFED|EDEF GABc|A2A2A2D2|
+GBdB edcA|ABcA GFED|Acec BAGF|G2G2G2:|
+d2|g3f gfed|efge dcBA|cdec BGdB|B2A2A2d2|
+g3f gfed|efge edcB|Acec BAGF|G2G2G2:|
+
+
+X:17
+T:17 Untitled Hornpipe (Roxburgh Castle)
+C:Welch MS
+N:Initial rest added by MG
+I:abc2nwc
+M:C
+L:1/8
+K:G
+zD|GDGB dBGB|c2ce dBGB|c2ec B2d B|A2A2A2BA|
+GDGB dBGB|c2ec dBGB|efge dcBA|B2G2G2:|
+ef|gdBd GdBd|gdBd GdBd|c2ec B2dB|A2A2A2BA|
+GDGB dBGB|c2ec dBGB|efge dcBA|G2G2G2:|
+
+
+X:18
+T:18 Baker's Frolic
+C:Aylmore MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:C
+C2c2G2E2|C2c2G2E2|D2E2F2D2|C2B,2A,2G,2|C2c2G2E2|C2c2G2E2|A2F2D2B,2|C6z2:|
+G,2B,2D2B,2|G,2C2E2C2|D2E2F2D2|C2B,2A,2G,2|C2c2G2E2|C2c2G2E2|A2F2D2B,2|C6z2:|
+
+
+X:19
+T:19 The Banks of Swale
+C:Welch MS
+N:Minor amendments to regularise pick-up & bar lengths by MG
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+D2|G3AG2B2|c2e2 e4|d2B2cBAG|F2A2 A4|
+G3AG2B2|c2e2 e4|d2G2BAG[FA] |B2 G2 G2:|
+z2|B3cB2e2|G2E2 E4|A3BA2d2|F2D2 D4|d3^cd2A2|
+B2d2 A4|d2F2 FEDE|F2D2 D4|G3AG2B2|c2e2 e4|d2B2 cBAG|
+F2A2 A4|G3AG2B2|c2e2 e4|g2d2 BAG[FA] |B2 G2 G2 |]
+
+
+X:20
+T:20 La Belle Catherine or German Spaw
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+z4|:d4fede|f2d2d2c2|B4efed|c2A2A2A2|
+d4fede|f2d2d2c2|B2e2 dcBA|1d4D4:|2d4|]
+A2G2|F2A2A2G2|F2A2A2G2|F2A2 dfed|c2A2A2G2|
+FGAB G2G2|F2AA B2c2|d4efed|a4A4|]
+
+X:21
+T:21 The Bohemian Polka
+C:Michael Turner's MS
+R:Play as ABACA
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+"A"G2D2 B2AG|F2A2 D4|G2D2 c2BA|d4g2 z2|
+G2D2 B2AG|F2A2 D4|G2D2 c2BA|G2GG G2 z2:|
+"B"e2c2 g2fe|d2g2 B4|c2A2 e2dc|B2d2 G4|
+e2c2 g2fe|d2g2 B4|A2Ad ^c2ce|d2fe dBcA:|
+K:C
+"C"c4A2B2|G2GA F2FG|F2A2 c2e2|d4g4|
+c4A2B2|G2GA F2FG|E2G2 c2e2|d4c2 z2:|
+
+X:22
+T:22 The Bugle Horn
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+(3fga|a2f2 f2d2|d4A2A2|d2d2e2e2|fefg f2  (3fga|
+a2f2f2d2|d4A2d2|e2e2 edef|d6:|
+f2|d4A2f2|d4A2f2|d2f2d2f2|d4A2  (3fga|
+a2f2f2d2|d4A2d2|e2e2 edef|d6:|
+
+X:23
+T:23 The Camp
+C:Welch MS
+N:Drop of 7th followed by leap of 10th as in STB. 
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+A2|d3fd2f2|gfed dcBA|d3fd2f2|a2a2a3A|
+d3fd2f2|gfed dcBA|B2g2e2c2|d6:|
+cd|e2c2f2d2|g2e2a2e2|B4c2d2|cdcB A2Bc|
+e2c2f2d2|g2e2a2f2|G3b agfe|d4d2:|
+
+X:24
+T:24 The Fall of Paris
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+d2d3/2e/2 d2d3/2e/2|d2d3/2e/2 gfed|e2e3/2f/2 e2e3/2f/2|e2e3/2f/2 agfe|
+f2f3/2g/2 f2f3/2g/2|f2f3/2g/2 bagf|e2e3/2f/2 e2e3/2f/2|efge cABc|d2d3/2e/2 d2d3/2e/2|
+d2d3/2e/2 gfed|e2e3/2f/2 e2e3/2f/2|f2fd g3g|e2e3/2f/2 agfe|
+f2fd g3g|f2fd g3g|fede f2e2|d2d2 d4|]
+
+
+X:25
+T:25 Foul Weather Call
+C:Welch MS
+N:bar14 as per STB. 1st note G not F# in the version I copied
+N:Changed back to G in my version BC
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+gfed e2a2|gfed dcBA|d2A2 BcdB|g2f2 e4|
+gfed e2a2|gfed dcBA|d3A BcdG|F2E2 D4:|
+GFED A2A2|Bcde dcBA|d2A2 BcdB|g2f2 e4|
+gfed e2a2|gfed dcBA|d3A BcdG|F2E2 D4:|
+
+X:26
+T:26 Galloway Girth
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+e2f2g2e2|d2B2B2d2|c2A2A2c2|d2B2B2d2|e2f2g2e2|d2B2B2d2|c2A2B2G2|E4E4:|
+B2c2B2A2|B2c2 d4|A2B2A2G2|F2G2 A4|B2c2B2A2|B2c2d2e2|d2B2d2F2|E4E4:|
+
+
+X:27
+T:27 The Honeymoon
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+A3d d2d2|d3f f2a2|g3f e2d2|c3e e4|A3d d2d2|d3f f2a2|g3f e2f2|d4d4:|
+d3A A4|B3c d2B2|A2F2 E2D2|C2E2 E4d3A A4|B3c d2e2|f2g2 e2f2|d4d4:|
+
+
+X:28
+T:28 Hunt The Squirrel
+C:Voice MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:A
+A2e2e2f2|e4c4|A2BcB2A2|A2BcB2A2|A2e2e2f2|e4c4|A2BcB2A2|A4A4:|
+d2e2f2ef|d2e2f2ef|d2e2f2g2|a4agf2|e2c2e2c2|e2c2d3f|A2BcB2A2|A4A4:|
+
+
+X:29
+T:29 Jeannet and Jeannot
+C:Michael Turner's MS
+N:As per STB but I think something's wrong with the accidentals
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+F2FE DEFG|A2d2 A4|F2A2 D2F2|E^DEF E2A2|
+FGFE DEFG|A2d2 A4|F2A2 D2F2|E^DEF =D4||
+F2FF F2F2|D2F2 D4|A2AA A2A2|F2A2 F4|
+[F2B2][FB][FB] [F2B2][F2B2] |[F2B2][FB][FB] [F2B2][F2B2] |[F2c2]dc B2cB|A2A,B, CDE^E||
+F2FE DEFG|A2d2 A4|F2A2 D2F2|E^DEF E2A2|
+FGFE DEFG|A2d2 A4|F2A2 D2F2|E^DEF "Fine"=D2||
+K:G
+D2|G3G A2A2|[G3d3]B [D2G2]BG|E2 c4AF|GFGA G2DD|
+G3G A2A2|d3B G2BG|E2 c4AF|G6"D.C. al Fine"AG|]
+
+X:30
+T:30 Jenny Lind's Polka
+C:Michael Turner's MS
+N:* indicates acciacatura from next note in scale above
+N:that Noteworthy cannot handle yet
+N:3rd part per STB but seems odd
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+F2A2 G2B2|A2f2{g}f^ef2|A2e2{f}e^de2|F2d2{e}dcd2|
+F2A2 G2B2|A2f2{g}f^ef2|A2e2{f}e^de2|d2d2 d2 z2:|
+d2B2{c}B^AB2|A2F2{G}F^EF2|g2e2{f}e^de2|f2d2{e}dcd2|
+d2B2{c}B^AB2|A2F2{G}F^EF2|g2e2{f}e^de2|d2d2 d2 z2:|
+ (3efe ^de a2e2|e2d2 dcd2| (3efe ^de d'2a2|b2a2 aga2|
+ (3efe ^de a2e2|e2d2 dcd2| (3efe ^de d'2a2|{b}a2a2 a2 z2|]
+
+X:31
+T:31 Last Valentine's Day
+C:Welch MS
+I:abc2nwc
+M:1/2
+L:1/16
+K:G
+dc|B2e2A2d2|G4A2B2|c2B2A2G2|AGFE D2dc|B2e2A2d2|G6AB|e2c2 BAGF|G2G2G2:|
+d2|d2g2g2g2|g2f2f2f2|e2f2g2e2|d4B4|c4ecec|B4dBdB|e2c2 BAGF|G2G2G2:|
+
+X:32
+T:32 Laura and Lenza
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:C
+ed|c2e2c2e2|d2g2 gfed|c2e2c2e2|dcBA G2AB||
+c2e2c2e2|d2g2 gfed|c2e2 d2gf|e2c2c2:|
+A2|d^cdc defd|e2c2c2de|dcBA GABG|c2e2B2G2|
+d^cdc defd|e2c2c2de|dcBA GABG|c2e2c2:|
+
+X:33
+T:33 Miss Molly's Jig
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+d3Bc2A2|B3G G4|d2B2c2A2|B8|D3FA3c|B3G d4|A3GE3^c|d4d4:|
+d2=f2e2d2|e2c2 c4|e2g2f2e2|f3d d4|e3c a4|d2B2 g4|e3cB3G|G4G4:|
+
+
+X:34
+T:34 The Original Scottische Polka
+C:Michael Turner's MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+Bc|d2b2 c2a2|B2g2- gdBG|F2e2- edcA|G2e2- edBc|
+d2b2 c2a2|B2g2- gdBG F2e2- edcA|G2GF G2:|
+D2|G2AB cdef|g2B2 cBAB|e2A2 BAGA|B2G2 G2D2|
+G2AB cdef|g2B2 cBAB|e2A2 BAGA|B2G2 G2:|
+FG|A2A2 Adfa|g2B2 B4|A2A2 Acea|g2f2 f2FG|
+A2A2 Adfa|g2B2 B4|A2A2 Acef|e2d2 d2:|
+
+
+X:35
+T:35 Pleal's Allemand
+C:Aylmore MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:C
+e2fe d2ed|c4G2c2|d2d2 d2d2|g4e4|e2fe d2ed|c4G2c2|d2d2 dcde|c4z4:|
+g2g2 b4|g2g2 c'4|f2e2 f2g2|e4c4|g2g2 b4|g2g2 c'4|f2d2 e2c2|c4z4:|
+
+
+X:36
+T:36 Polish Polka
+C:Michael Turner's MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:C
+EFG2 A2G2|c2G2 e4|e2d2 f2B2|d2c2 c2 z2|EFG2 A2G2|c2G2 e4|e2d2 f2B2|d2c2 c2 z2:|
+d2ed ^c2d2|g2B2 d4|d2ed c2A2|e2d2 d2 z2|d2ed ^c2d2|g2B2 d4|d2ed c2A2|A2G2 G2 z2:|
+K:F
+c2f2 A2c2|F2A2 C4|A2G2 B2E2|d2c2 c4|c2f2 A2c2|F2A2 C4|A2G2 B2E2|G2F2 F2 z2:|
+
+X:37
+T:37 Redowa Polka
+C:Michael Turner's MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+GBd2 d2d2|dedc B2B2|GAB2 GAB2|B2A2 A4|
+ABc2 c2c2|cdcB A2A2|FGA2 FGA2|A2G2 G4:|
+GBd2 g2d2|d2c2 cBc2|FAc2 f2e2|e2d2 d^cd2|
+GBd2 g2d2|d2c2 cBc2|FAc2 f2e2|d2ef g4:|
+K:C
+G2Bc BcBc|A2^cd cdcd|B2G2 A2B2|c2d2 a2g2|
+G2Bc BcBc|A2^cd cdcd|B2G2 A2B2|c2c2 c4:|
+
+X:38
+T:38 Rink-a-Tink
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+G4d2B2|G4e2c2|c2d2 c2B2|A2F2E2D2|G4d2B2|G4e2c2|c2A2G2F2|G8:|
+d4g2f2|e2d2c2B2|A2B2c2A2|B4G4|d4g2f2|e2d2c2B2|c2A2G2F2|G8:|
+
+X:39
+T:39 The Russian Dance
+C:Voice MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+D2G2|B4D2G2|B4D2G2|c2d2B2c2|A4D2F2|A4D2F2|A4d2c2|B2c2A2B2|G4:|
+d2c2|B3cB2A2|G4g2f2|e4e2^d2|e4d4|c2d2e2c2|B2G2G2B2|B2c2A2B2|G4:|
+
+
+X:40
+T:40 Slingsby's Allemande
+C:Aylmore MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+f2|egec d2f2|egec d2A2|B2A2 B2Tc2|dcde d2f2|
+ egec d2f2|egec d2A2|B2A2 B2Tc2|d6:|
+g2|fafd fafd|gbge gbge|fafd fafd|cece A2g2|
+fafd fafd|gbge gbge|fafd eg ec|d6:|
+
+X:41
+T:41 The Tartar
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+F2A2 d4|B2d2 g4|f2a2 gfed|c2e2 c2A2|F2A2 d4|B2d2 g4|fafd egec|d4d4:|
+a2f2 f4|BAGF E4|g2e2 e4|AGFE D4|F2A2 d4|B2d2 g4|gfed fedc|d4d4:|
+
+
+X:42
+T:42 This My Lady
+C:Aylmore MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:C
+V:1 bracket=2
+G2|c6e2|d6f2|e2g2 gfed|c2c2 c2G2|c6e2|d6f2|e2g2 gfed|1c6:|2c6z2|]
+z2g2 e2g2|z2a2 f2a2|z2f2 d2f2|z2g2 e2g2|z2c'2 g2e2|z2a2 f2d2|z2e2 f2d2|c2c2 c4:|
+G4E2F2|G8|f4z2d2|e4z2c2|B8|c8|a2g2 f2e2|d2d2 d4:|
+f8|e8|f2f2 f2d2|e2e2 e2c2|a2a2 a2f2|g2c'2 a2f2|e2c2 d2c2|c6z2:|
+V:2
+C2|E6c2|G6d2|c2d2 edcB|G2G2 G2F2|E6c2|G6d2|c2d2 edcB|1c6:|2c6z2|]
+e2 z2z4|f2 z2z4|d2 z2z4|e2 z2z4|c2 z2z4|d2 z2z4|c4e2G2|E2E2 E4:|
+e4c2d2|e8|d2G2 G2d2|c2G2 E2C2|G2d2 d2G2|c2e2 e2c2|f2e2 d2c2|G2G2 G4:|
+d2d2 d2G2|c2c2 c2E2|G8|E8|G2f2 f2d2|e2g2 f2d2|c2e2 c2G2|E2E2 E4:|
+
+
+X:43
+T:43 A Waterloo Dance
+C:Shoosmith MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+AG|F2dB A2fe|d2d2 d2cd|e2e2 dcBc|defd A2AG|
+ F2dB A2fe|d2d2 d2cd|e2e2 dcBc|d6:|
+cd|e2ec a2af|e2ec A2A2|^GABc dBed|d4c2cd|
+e2ec a2af|e2ec A2A2|^GABc dBAG|A4A2:|
+fg|a6f2|b2a2 g2f2|e2e2 edef|d2e2 f2g2|
+a6f2| b2a2 g2f2|e2e2 edef|d6:|
+
+X:44
+T:44 Water Loo Fair or The Henryco
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:D
+A2|d2fd dcdB|A2A2 F2F2|d2fe defd|e2a2 a2A2|
+d2fe dcdB|A2A2 F2F2|d2ef gedc|d2d2 d2:|
+z2|a2ag f2fe|d2de fdef|gagf efed|cdBc ABcA|
+d2d2 cecA|d2d2 cecA|dcde fedc|d2d2 d2:|
+
+X:45
+T:45 Wentworth House
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+G2GA G2D2|G2B2 d4|c2cd B2Bc|A2AB GFED|
+G2GA G2D2|G2B2 d4|c2cd B2Bc|BAGF G4:|
+d2d2 edcB|c2c2 dcBA|B2B2 cBAG|FGAB A2D2|
+d2d2 edcB|c2c2 dcdc|B2B2 cBAG|FGAF G4:|
+
+
+X:46
+T:46 What A Beau My Granny Was
+C:Alymore MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:C
+f4|:e3cd3B|c3AG3F|E2G2c2e2|d2G2 G4|e3cd3B|c3AG3F|E2G2A2B2|c2C2 C4:|
+G2E2G2C2|G2F2A2D2|G2E2G2c2|e2d2G2G2|F2E2G2c2|e2f2d2c2|B2c2A2G2|F2E2C2C2:|
+
+X:47
+T:47 Unititled Polka
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+D2|G2G2 A2A2|BABc d2d2|c2c2 B2B2|AGAB A2D2|
+G2G2 A2A2|BABc d2dc|B2B2 AGAB|G6:|
+f2|d2c2 B2e2|d4c2c2|c2B2 A2d2|c4B2D2|
+G2G2 A2A2|BABc d2dc|B2B2 AGAB|G6:|
+
+X:48
+T:48 Untitled Polka (Welch's 4-part)
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+dedc BcBA|G2G2 G2AB|{d}c2A2 A2A2|{d}c2A2 A2A2|dedc BcBA|G2G2 G2AB|c2A2 G2F2|G6z2:|
+A2AB c2A2|Bcde d4|A2AB c2A2|Bcde d4|e2g2 c2e2|d2g2 B2d2|c2A2 G2F2|G4G4:|
+d3e d2c2|B6c2|d2g2 f2e2|e2d2 d4|d3e d2c2|B6c2|d2c2 A2F2|G4G4||
+A2AB c2A2|Bcde d4|A2AB c2A2|Bcde d4|e2g2 c2e2|d2g2 B2d2|c2A2 G2F2|G4G4|]
+
+X:49
+T:49 Untitled Polka
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:C
+G2|G2c2c2d2|e3dc2B2|A2d2d2e2|f2d2d2B2|G2c2c2d2|e2d2c2B2|ce3Bd3|c4z2:|
+g2|a2g2e2g2|a2g2e2g2|f2e2d2c2|d4d2d2|ec3dB3|cA3G2G2|Ac3Bd3|c4z2:|
+c'2|b2a2g2f2|e2d2c2c'2|b2a2g2f2|e2d2c2c'2|a2f2d2b2|g2e2c2c'2|a2f2d2b2|c'4z2:|
+
+X:50
+T:50 Untitled Polka
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+de/2f/2|g2g2 d2d2|edef g2e2|d2g2 edcB|B2A2 A2de/2f/2|
+g2g2 d2d2|edef g2e2|dgfe dcBA|G2G2 G2:|
+GA|B2B2 B2d2|^c2e2 e2g2|f2d2 fed^c|d2d2 d2dc|
+B2g2 g2e2|d2g2 g2e2|dgfe dcBA|G2G2 G2:|
+B2|e2e2 e2g2|B2B2 B2e2|G2G2 G2B2|E6F2|
+G2B2 B2e2|A2A2 c2f2|g2f2 e2^d2| e6:|
+
+X:51
+T:51 Untitled Polka
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+A2|d2d2 B2G2|e6fg|d2d2 B2G2|A6Bc|d2d2 cBAG|cdef g2c2|B2B2 A2A2|G4G2:|
+z2|D2FA|c2c2|B2d2 G2B2|D2FA c2c2|B4d4|e2d2 c2A2|B2d2 g2B2|ABcA D2F2|G4G2:|
+
+X:52
+T:52 Untitled Polka
+C:Aylmore MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+GA|B2B2 Bdce|d2G2 G2B2|c2e2 B2d2|edcB A2GA|
+B2B2 Bdce|d2G2 G2ge|edcB dcBA|A4G2:|
+Bc|d2d2 d2ef|g2d2 d2ef|gfed edcB|cBAG A2GA|
+B2B2 Bdce|d2G2 G2ge|edcB dcBA|G4G2:|
+
+X:53
+T:53 Andrew Mack
+C:Aylmore MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+V:1 bracket=3
+A|de/2f/2d B2d|AFA A2B|ABA d2e|f2a gfe|
+de/2f/2d B2d|ABA A2d|B2g fge|d3d2:|
+A|def a2f|b2g afd|def a2f|g2e bge|
+def a2f|b2g afd|fdB GBd|f3gfe|
+dBB B2d|AFA A2A|ABA d2e|f3gfe|
+dBB B2d|AFA A2B|B2g fge|d3d2:|
+V:2
+D|FAF G2A|F2F F2A|F2F F2A|d2f edc|
+F2F G2A|F2F F2F|G2e d2A|F3F2:|
+D|FAd f2d|g2e fdB|FAd f2d|e2c gec|
+FAd f2d|g2e fdB|F2G G2A|d3edA|
+G2G G2A|F2F F2G|F2F F2G|d3edA|
+G2G G2A|F2F F2F|G2e d2A|F3F2:|
+V:3 clef=bass
+K:G
+z|d2d g2g|a3A3|d2d d2e|fda gfe|
+d2d g2g|a3A3|d2g a2A|dAF D2:|
+d|d6|d6|d6|e6|
+d6|d6|d2d d2d|fda gfe|
+d2d g2g|a2a A3|A2a d2e|fda gfe|
+d2d g2g|a3A3|d2g a2A|dAF D2:|
+
+X:54
+T:54 The Ball
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+d|B2G A2F|GAG D2D|E2E c2B|B3A2d|B2G A2F|GAG D2D|E2c A2F|G3G2:|
+B|A2D c2A|BdB G2G|c2D c2B|B3A2c/2d/2|e2c A2f|g2d B2G|E2c A2F|G3G2:|
+
+
+X:55
+T:55 Bonny Part's Birth Day
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+G/2A/2|d2d e2d|B2B d2B|A2A AGA|B3G2G/2A/2|d2d e2d|B2B d2B|A2A A G F|G3G2:|
+g|f2d def|g3d2B|cec BdB|AFD D2g|f2d def|g3d2g|fga gfe|d3d2:|
+
+X:56
+T:56 Brothers in York
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+EGE G2A|B2e dBG|A2B c2A|B2G FED|EGE G2A|B2e dBG|A2B c2A|BGE E3:|
+e3fge|fab fed|e3fge|fed e3|e2f g2e|fab fed|e2B c2A|B G E E3:|
+
+
+X:57
+T:57 Captain Lanoe's Quick March
+C:Alymore MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+G2B d2d|gfe d3|cdc BcB|AGA B2G|G2B d2d|gfe d3|cdc BcB|AGA G3:|
+B3B3|BAB c3|B2c d2c|B2A B2G|B3B3|BAB c3|B2g dBG|A3G3:|
+
+
+X:58
+T:58 Captain O Cain
+C:Welch MS
+N:Originally by O'Carolan, as Captain O'Kane, a fifth lower
+I:abc2nwc
+M:6/8
+L:1/8
+K:C
+A/2G/2|EAA/2B/2 c2B/2A/2|Bd/2c/2B/2A/2 GAB|cec e/2d/2c/2B/2A/2G/2|EAA A2A/2G/2|
+EAA/2B/2 c2B/2A/2|Bd/2c/2B/2A/2 GAB|cec e/2d/2c/2B/2A/2G/2|EAA A2|]
+B|cee efg|Bdd d2g/2f/2|ea^g abc'|ea^g a2b|
+c'ba gee|dBg GAB|cec e/2d/2c/2B/2A/2G/2|EAA A2:|
+
+X:59
+T:59 The Comical Fellow
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+A|d2f e2A|B2d c2F|GFG EAG|FDD D2:|
+A|d2d d2d|=cBA BGB|e2e e2e|dcB cAd|
+fef def|gfg efg|agf agf|eee e2a|
+aaa a2a|aaa a2a|afd Bec|ddd d2:|
+
+X:60
+T:60 Falmouth Assembly
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+d|BGG GAB|cAA ABc|dgd dBG|A3G2d|BGG GAB|cAA ABc|dgd dBG|A3G2:|
+d|g2d e2d|edc BAG|gag fed|e3d2d/2c/2|BAG GAB|cBA ABc|dgd dBG|A3G2:|
+
+
+X:61
+T:61 The French Dance
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+A|d2f d2c|B2A B2A|B2c d2B|ABA GFE|d2f d2c|B2A B2A|B2c def|gec|d2:|
+z|F2G A2B|AFd AFD|F2G A2B|AFD E3|F2G A2B|AFA AFD|d2e fga|gec d2:|
+
+
+X:62
+T:62 The Golden Fish
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+d3/2e/2d AFA|dfd ecA|dcd AFA|Bec d2z|d3/2e/2d AFA|dfd ecA|dcd AFA|Bec d2z|]
+dAd BAG|eBe cBA|efg fed|eBc d2z|dAd BAG|eBe cBA|efg fed|eBc d2z|]
+
+X:63
+T:63 The Haymaker's Dance
+C:Aylmore MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:C
+G|c2e d2f|e2c dBG|c2e d2f|ege c2:|
+c|e2g c'2g|ac'a gec|e2g c'2g|ac'a g2:|
+e|f2a gec|d2f d2c|f2a gec|dfd c2:|
+
+
+X:64
+T:64 Jack's Ramble
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+D|FDF AFA|d2d d2D|FDF AGF|E2E E2D|FDF AFA|d2d d2f|agf gfe|d2d d2:|
+a|afd gec|def gfe|fag fed|e2e e2a|bag agf|e/2f/2ge cBA|Bgf edc|d2d d2:|
+
+X:65
+T:65 A Jigg Ashling
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+G2B AcA|B2d cec|dgf edc|BAG FED G2B AcA|B2d cec|dgf ed^c|ddd d3:|
+e2c AcA|d2B GBG|cde EFG|AcG FED|BAG cBA|dcB efg|dcB AGF|GGG G3:|
+
+
+X:66
+T:66 A Jig By Greenland
+C:Aylmore MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+G|d2d cdc|B2B BcB|G2G GAB|A3D3|d2d ded|B2B BcB|A2d de^c|d3d2:|
+d|e2c cde|d2B Bcd|c2A ABc|A3D3|d2d def|g2d ded|B2B AGA|G3-G2:|
+
+
+X:67
+T:67 John of Paris
+C:Shoosmith MS
+N:Per STB. I think there should be a DC al Fine and the end of the second part
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+d/2c/2|B2B BAB|d2B BAB|c2e g2e|d2B BAB|c2A AGA|B2G GFG|E2e edc|1B2G G2:|2B2G G3|]
+d2c Bcd|e2f g2a|b2a gfe|d2c Bcd|e2e ecA|d2d dBG|c2A B2G|A2F D2z:|
+
+X:68
+T:68 Lady Mary Douglas
+C:Welch MS
+N:Minor rejiggling of repeats etc by MG to correct notation
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+D/2C/2[|B,/2C/2DD D2G|ECE D2C|B,/2C/2DD DGc|B3A2D/2C/2||
+B,/2C/2DD D2G|ECE D2e|dBG cAF|1G3G2D/2C/2:|2A3G2|]
+d|ded g2d|B3G2B|ABA d2A|F3DEF|
+GEG EFG|ABA FGA|Bcd dcB|AGF EDC"DC"|]
+
+X:69
+T:69 La Damoiselle
+C:Shoosmith MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+B/2c/2|d2d dBd|e2c c2e|dec BcA|G2G GBc|
+d2d dBd|e2c c2e|ded BcA|G3G2:|
+d|g2g gfg|a2d d2f/2g/2|g2a aga|c'2g g2b|
+abg fge|d2d dBd|e2c c2e|dec BcA|
+G2G GBd|d2d dBd|e2c c2e|dec BcA|G3G2:|
+
+X:70
+T:70 The Legacy or New Mown Hay (William & Nancy)
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+D|G2G GDB|d2d dBG|G2A BAB|E2F G2D|G2G GDB|d2d dBG|G2A BAB|E2F G2
+D|GBd g2g|fed edB|GBd g2g|fdB e2d|g2g fdB|e2e dBG|G2A BAB|E2F G2:|
+
+
+X:71
+T:71 Manfrend
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+D|DBB BcA|AGG G2d|dFF F2A|AGG G2D|DBB BcA|AGG G2d|dFF F2A|AGG G2:|
+g|f2a a2c|B2d d2g|fga afd|Bcd def|g2g gfg|ece gfe|ded cBA|G2G G2:|
+
+
+X:72
+T:72 Morgan Ratler
+C:Aylmore MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:C
+c|:GFE DEF|EDE C2c|GFE DEF|A2B ABc|
+GFE DEF|EDE C2G|cde dcB|A2G ABc:|
+c2d ecA|B2c dBG|c2d ecA|f2d efg|
+c2d ecA|B2c dBG|cde dBG|A2G ABc:|
+C2c cBc|D2d dcd|C2c cBc|A2G ABc|
+C2c cBc|D2d def|gfe dcB|A2G ABc:|
+
+
+X:73
+T:73 Morgiana in Ireland
+C:Shoosmith MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:A
+E2E A2A|BAB c3|E2E A2A|c2d cAF|
+[M:6/8]E2E A2A|BAB c2f|fed cdB|A2B cAF|
+e2e edc|f2g a3|efe edc|f2g aec|
+e2e edc|fgf fga|efd cdB|AGA cAF|
+AGA c/2e3/2 z|AGA d/2f3/2 z|AGA A2B|c2d cAF|
+AFA c/2e3/2 z|d/2f3/2 zc/2e3/2 z|f/2a3/2 zc/2e3/2 z|A2B cAF|]
+
+X:74
+T:74 Morgiana in Spain
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+B2c d2g|B2c d2g|e2e a2g|fag fed|B2c d2g|B2c d2g|e2a fef|g2g g2||
+b|a2g f2b|a2g f2b|a2g f2e|d2d d2b|a2g f2b|a2g f2b|abg fge|dec BcA|]
+
+X:75
+T:75 Murphy Delany
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+G|:GFG GFG|GFG Bcd|GFG GFG|EGF EDC|
+GFG GFG|GFG Bcd|efg dcB|ABG FED:|
+Bcd ded|ded dcB|cde efe|efe edc|
+Bcd ded|ded def|gfe dcB|ABG FED:|
+
+
+X:76
+T:76 The Muses
+C:Shoosmith MS
+N:STB repeats bar3, making a 9 bar phrase which I think is a transcription error
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+A/2G/2|FAd FAd|BAB e2d|cBc ABc|dcd f2A/2G/2|
+FAd FAd|BAB e2d|cBc ABc|d3d2:|
+a|:f2a e2a|dcd d2a|f2a e2a|gfg a2a|f2a e2a|dcd d2a|f2a e2a|^g3fga:|
+
+
+X:77
+T:77 The New Moon
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:C
+G|c2c c2G|A2G GAB|c2c dcd|e2c c2e|f2f e2e|dec BAG|AGF EFG|A2G G2:|
+c|a2a gec|a2a g2e||a2a gec|B3cdc|a2a gec|fdc BAG|AGF EFG|A2G G2:|
+
+
+X:78
+T:78 Paddy Carrey
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+D|:D2G GFG|B2G GFG|E2A A2B|cAG FED|D2G GFG|B2G G2z|FED DEF|GAB A2G:|
+G2B c2e|d2e dBG|G2B c2e|dBG A2z|G2B c2e|d2e dBG|G3BAG|1FDF G2z:|2FDF G2B|]
+c2A A2A|B2G G2G|F2G A2B|c2A F2D|c2A A2A|B2G G2z|FED DEF|GAB A2G:|
+
+X:79
+T:79 Pendean Dance in Tekile
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+A|d2d dcd|B2B Bed|cBA ABc|d2f a2A|d2d dcd|B2B Bed|cBA ABc|d3d2:|
+f|g2e efe|d2A ABA|a2a aba|f2d d2A|dcd ede|fef gfg|aba agf|f3e2"Fine"|]
+
+X:80
+T:80 The Pilgrim
+C:Aylmore MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+A|d2d e2e|fd zz2A|Bcd A2G|FD zz2c|dcd ede|f3e2c|dfe dcB|(A3A2):|
+A2A AGF|G2B e2G|G2G GFE|F2A d2F|GAB AFD|B2c d3|egf gec|(d3d2):|
+
+
+X:81
+T:81 Poor Soldier
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+d/2e/2|fdB AGF|Eee e2d/2e/2|fdB AFA|Add d2d/2e/2|
+fdB AGF|Eee e2d/2e/2|fdB AFA|Add d2:|
+f/2e/2|dfa dfa|dfa a2f/2e/2|dfa dfa|
+gee e2f/2e/2|dfa dfa|dfa a2g|fdB AFA|Add d2:|
+
+
+X:82
+T:82 The Rosetta
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+D|G2G GBd|G2G G2G|A2A ABc|B2G G2D|G2G GBd|G2G G2G|AcB AGF|G2G G2:|
+d|g2g aga|b2g g2d|ded dcB|A2D D2d|g2g aga|b2g g2e|dcB AGF|G2G G2:|
+
+
+X:83
+T:83 Tekili
+C:Welch MS
+N:From Sussex Arch Soc. Other near identical vers from CSH and John Clare.
+N:JC has grace note F# on strong Es in bars 11,12.
+N:This version in STB slightly different from that I got from the MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+A|d2d dcd|B2d A3|ABc def|g2e c2A|d2d dcd|B2d A3|ABc def|gec d2:|
+A|d2e f2f|fge e2d|e2d e2d|e2d e2f|d2e f2f|fgf e2d|e2d e2f|d3d2:|
+
+
+X:84
+T:84 The Troublesome Cossack
+C:Welch MS
+N:in STD 1st 4 beats of B music have 2 grace notes running up to them
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+D|B3/2c/2B AGA|G2D DEF|G2B GBd|c2A A2D|
+B3/2 c/2BA G A|G2D DEF|GBd cAF|G2B G2:|
+D|B2G B2G|c2A c2A|d2d dBG|AFD DEF|
+BAG BAG|ABc ABc|dBG DEF|GdB G2:|
+
+
+X:85
+T:85 The Villagers
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+d/2c/2|B2B cBc|dBG AFD|G2G A2A|Bcd A2d/2c/2|
+B2B cBc|dBG AFD|G2G A2B|cAF G2:|
+d/2c/2|B2d ded|g2d ded|B2d B2c|
+dcB A2d|B2d ded|g2d ded|B2d B2d|cBA G2:|
+
+
+X:86
+T:86 Waterloo
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:D
+DFE D2B|A2G F2E|D2D F2F|AGF E2F|DFE D2B|A2G F2A|G2F EDC|D3D3:|
+DFE D2A|A2G A2D|DFE D2B|B2^A B2z|DFE D2C|B,2B, B2B|AGF E2F|D3D3:|
+
+
+X:87
+T:87 Untitled Jig
+C:Welch MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:C
+G|c2c cBc|g2f d2f|egc cBc|d2B G2G|c2c cBc|g2f d2f|egc dcB|c2c c2:|
+G|G3GAB|c2c cBc|d2d dcd|e2c c2G|G3GAB|c2c e2g|dcB AGF|G2G G2|]
+
+
+X:88
+T:88 Untitled Jig (The Royal Albert)
+C:Shoosmith MS
+I:abc2nwc
+M:6/8
+L:1/8
+K:G
+GAG BAG|d2d d2g|d2g d2c|B2A G2D|GAG BAG|d2d d2g|fgf edc|d3d3:|
+a2d c'2b|agf gfg|a2d c'2b|agf g3|eaa dbb|caa g2G|cBA d2F|G3G3:|
+B3ABA|G2G GBd|d3cdc|B2B B2g|g2f f2e|e2d d2c|Bcd dcB|B3A3|
+g3gec|BcB B3|c'3c'af|gag g2d|g2f e2d|e2d c2B|ABA d2F|G3G3:|
+
+X:89
+T:89 The Bath Waltz
+C:Welch MS
+I:abc2nwc
+M:3/4
+L:1/8
+K:G
+(3DEF|G2G2G2|G4DG|B2B2B2|B4GB|d4BE|e4cA|F2F2F2|G4:|
+Bd|dc c2AF|AG G2Bd|dc c2AF|G4Bd|dc c2AF|AG G2Bd|ed fc AF|G4:|
+D2|G2F2G2|A4B2|c2E2A2|G2F2D2|G2F2G2|e2f2gf|de dc BA|G4:|
+
+
+X:90
+T:90 Brunswick Waltz
+C:Shoosmith MS
+I:abc2nwc
+M:3/8
+L:1/16
+K:G
+GA|B2B2c2|d4ge|d2d2 ec|B2B2 GA|B2B2c2|d4g2|a2agab|g4GA|
+B2B2c2|d4ge|d2d2 ec|B2B2 GA|B2B2c2|d4g2|a2agab|g4||
+d2|c'2c'2a2|b2b2g2|f2f2g2|a2a2d2|c'2c'2a2|b2b2g2|a2agab|g4d2|
+c'2c'2a2|b2b2g2|f2f2g2|a2a2d2|c'2c'2a2|b2b2g2|a2agab|g4||
+Bc|d2d2e2|d2d2B2|c2A2B2|c2B2c2|d2d2e2|d2d2g2|a2agab|g4Bc|
+d2d2e2|d2d2B2|c2A2B2|c2B2c2|d2d2e2|d2d2g2|a2agab|g4|]
+
+X:91
+T:91 The Commet Waltz
+C:Welch MS
+I:abc2nwc
+M:3/8
+L:1/16
+K:C
+GB|e3 fed|c3 dcB|A2B2c2|G4EG|F2E2D2|c2B2c2|e2d2c2|c2B2 GB|
+e3 fed|c3 dcB|A2B2c2|G4EG|F2E2D2|c2B2c2|d2c2B2|c4:|
+e2|fgfedc|B2d2f2|ecBcGE|C4cB|A2d2f2|a2A2d2|cBdcBA|G4Gc|
+e3 fed|c3 dcB|A2B2c2|G4EG|F2E2D2|c2B2c2|d2c2B2|c4:|
+GF|E2G2B2|c2B2A2|B2d2g2|f4eg|f2e2f2|A2d2c2|B2c2A2|G4GF|
+E2G2c2|c2B2A2|B2d2g2|f2e2g2|f2e2f2|A2d2c2|cBAGAB|c4:|
+
+X:92
+T:92 The Duke of York's New Short Step by William Ebrington
+C:Aylmore MS
+I:abc2nwc
+M:3/8
+L:1/16
+K:G
+(3def|g2d2d2|d3 edc|B2G2G2|G3 BAG|F2A2A2|G2B2d2|d2c2B2|A3def|
+g2d2d2|d3edc|B2G2G2|G4d2|e2gege|d2BdBd|c2A2F2|G4:|
+G2|F2A2A2|G2B2B2|A2c2c2|B3dBG|F2AFAF|G2BGBG|A2cAcA|B4 (3def|
+g2d2d2|d3edc|B2G2G2|G4d2|edefge|fgafge|c2A2F2|G4:|
+z2|B2d2d2|d2e2e2|A2c2c2|^c2d2e2|G4FG|G4Bd|gdgdBG|D6|
+B2d2d2|^d2e2e2|A2c2c2|^c2d2d2|gfgfe^d|edcBAG|cedBcA|G4|]
+
+X:93
+T:93 Die Elfen Waltz
+C:Michael Turner's MS
+I:abc2nwc
+M:3/4
+L:1/8
+K:A
+E2A2c2|d4G2|A2c2f2|e6|E2A2c2|d4G2|B2A2c2|E6|
+E2A2c2|d4G2|A2c2f2|e6|e2d2c2|^A2B3c|d2E3G| A2z2z2:|
+e ze zf z|e ze za z|a2g2f2|e6|e ze zf z|e ze za z|a2g2f2|e6|
+E2A2c2|d4G2|A2c2f2|e6|E2A2c2|D2F2B2|B2d2g2|a6:|
+
+X:94
+T:94 The Emperor of Alexander's Wa;tz
+C:Welch MS
+I:abc2nwc
+M:3/8
+L:1/16
+K:G
+Bc|d2dBgd|B4GB|c2cBcd|e2d2 Bc|d2dBgd|B4GB|c2cAFA|G4:|
+g2|gf .f2.f2|ag .g2.g2|gf .f2.f2|g4g2|fafafa|gagbgb|c'afdef|g4:|
+
+
+X:95
+T:95 The French Assembly
+C:Welch MS
+I:abc2nwc
+M:3/8
+L:1/16
+K:G
+c2cBcA|B2BABG|A2AFAF|G2E2E2|c2cBcA|B2BABG|A2AFAF|G6|
+c2cBcA|B2BABG|A2AFAF|G2E2E2|c2cBcA|B2BABG|A2AFAF|G6|
+G2g2g2|G2g2g2|agfedc|BcdBG2|G2g2g2|G2g2g2|fafde^c|d6|
+c2cBcA|B2BABG|A2AFAF|G2E2E2|c2cBcA|B2BABG|A2AFAF|G6:|
+
+X:96
+T:96 Lady Villier's Delight
+C:Welch MS
+I:abc2nwc
+M:3/8
+L:1/16
+K:G
+(3def|g2d2d2|d2B2G2|A2ABcA|B2G2  (3def|g2d2d2|d2B2G2|A2AGAB|G4 (3def||
+g2d2d2|d2B2G2|A2ABcA|B2G2  (3def|g2d2d2|d2B2G2|A2AGAB|G4||
+D2|F2A2c2|B2d2f2|f2a2^c2|d4 (3def|g2d2d2|d2B2G2|A2AGAB|G4D2|
+F2A2c2|B2d2f2|f2a2^c2|d4 (3def|g2d2d2|d2B2G2|A2AGAB|G4|]
+
+X:97
+T:97 Lieber Augustine
+C:Shoosmith MS
+I:abc2nwc
+M:3/8
+L:1/16
+K:D
+a2abag|f2d2d2|e2A2A2|f2d2d2|a2abag|f2d2d2|e2A2A2|d6|
+a2abag|f2d2d2|e2A2A2|f2d2d2|a2abag|f2d2d2|e2A2A2|d6||
+e2A2A2|f2d2d2|e2A2A2|f2d2d2|a2abag|f2d2d2|e2A2A2|d6|
+e2A2A2|f2d2d2|e2A2A2|f2d2d2|a2abag|f2d2d2|e2A2A2|d6|]
+
+X:98
+T:98 The London Troop
+C:Welch MS
+I:abc2nwc
+M:3/8
+L:1/16
+K:G
+Bc|d2B2g2|e2c2A2|GFGABc|d2B2d2|d2B2g2|fedcBA|GFGBAF|G4Bc|
+d2B2g2|e2c2A2|GFGABc|d2B2d2|d2B2g2|fedcBA|GFGBAF|G4||
+AB|c2A2F2|d2B2G2|edcBAG|G2F2D2|c2A2F2|d2B2G2|e3gfa|g4AB|
+c2A2F2|d2B2G2|edcBAG|G2F2D2|c2A2F2|d2B2G2|e3gfa|g4||
+Bc|d2dgfg|e2egfg|f2defg|a2A2c2|B2gfed|e2dcBA|GFGBAF|G4Bc|
+d2dgfg|e2egfg|f2defg|a2A2c2|B2gfed|e2dcBA|GFGBAF|G4|]
+
+X:99
+T:99 My Skiff is on de Shore
+C:Michael Turner's MS
+I:abc2nwc
+M:3/8
+L:1/16
+K:F
+c2||c3 =B dc|A4c2|f2A2d2|c4B2|A3 G cB|E2G2B2|d2c2=B2|c3AF2|
+c3 =B dc|A4c2|f2A2d2|c4B2|g4f2|e2d2c2|B2A2G2|F4z2||
+G3 A G^F|Gd e3 e|ef d2d2|de c2c2|G3 A G^F|
+Gd e3 e|ef d2d2|de c2c2|c=B_B AB"DC" |]
+
+X:100
+T:100 When Chloe
+C:Welch MS
+I:abc2nwc
+M:3/4
+L:1/8
+K:C
+V:1 bracket=2
+c2|(c2G2)e2|e2d2ef|g2f2e2|d4d2|g2d2e2|d2G2A2|G6-|G4c2|
+(c2G2)e2|e2d2ef|g2f2e2|d4d2|g2d2e2|d2G2A2|(G6|G4)||
+G2|B2d2g2|d2B2G2|c2f2e2|d4g2|g2c2d2|d2G2B2|c6-|c4G2|
+B2d2g2|d2B2G2|c2f2e2|d4g2|g2c2d2|d2G2B2|c6-|c4|]
+V:2 clef=bass
+c2|(c2e2)g2|c'2g2e2|e2d2c2|g4g2|g2b2c'2|g4d2|G6-|G4c2|
+(c2e2)g2|c'2g2e2|e2d2c2|g4g2|g2b2c'2|g4d2|G6-|G4||
+g2|g2f2e2|f2g2g2|e2d2c2|g4g2|c'4e2|g4G2|c6-|c4g2|
+g2f2e2|f2g2g2|e2d2c2|g4g2|c'4e2|g4G2|c6-|c4|]
+
+X:101
+T:101 Untitled Waltz
+C:Welch MS
+I:abc2nwc
+M:3/4
+L:1/8
+K:D
+A2|A3f ed|(dc) c2A2|A3g fe|(ed) d2A2|A3f ed|(dc) c2AB|cdefge|d4A2|
+A3f ed|(dc) c2A2|A3g fe|(ed) d2A2|A3f ed|(dc) c2AB|cdefge|d4||
+f2|a2g2f2|g2f2e2|dcBABc|defg a2|a2g2e2|g2f2d2|dcBABc|d4f2|
+a2g2f2|g2f2e2|dcBABc|defg a2|a2g2e2|g2f2d2|dcBABc|d4||
+d2|f2^e2f2|d4A2|f2^e2f2|d2A2f2|g2f2g2|e2^d2e2|cAcdef|d4d2|
+f2^e2f2|d4A2|f2^e2f2|d2A2f2|g2f2g2|e2^d2e2|cAcdef|d4|]
+
+X:102
+T:102 Untitled Waltz
+C:Welch MS
+I:abc2nwc
+M:3/4
+L:1/8
+K:C
+c3/2d/2 e3g|f3/2e/2 d3c|Bdfdag|e3/2g/2 c'4|c3/2d/2 e3g|f3/2e/2 d3c|Bdfdag|c6|
+c3/2d/2 e3g|f3/2e/2 d3c|Bdfdag|e3/2g/2 c'4|c3/2d/2 e3g|f3/2e/2 d3c|Bdfdag|c6||
+e3/2f/2 g2g2|e3/2f/2 g2g2|ab/2a/2gabc'/2a/2|ag g4|efgeag|fe e2ed|dcdGAB|B2c4|
+e3/2f/2 g2g2|e3/2f/2 g2g2|ab/2a/2gabc'/2a/2|ag g4|efgeag|fe e2ed|dcdGAB|B2c4|]
+
+X:103
+T:103 Untitled Waltz
+C:Welch MS
+I:abc2nwc
+M:3/4
+L:1/8
+K:D
+A2|d2fedc|B2B2B2|e2efBd|c2A2A2|d2dc d2|e2e^d e2|f2f2^g2|a4a2|
+d2fedc|B2B2B2|e2efBd|c2A2A2|d2dc d2|e2e^d e2|f2f2^g2|a4||
+a2|f2f2a3/2f/2|e2e2g3/2e/2|d2d2f3/2d/2|A2B2c2|d2e2f2|e2f2g2|a2b2c'2|d'4a2|
+f2f2a3/2f/2|e2e2g3/2e/2|d2d2f3/2d/2|A2B2c2|d2e2f2|e2f2g2|a2b2c'2|d'4||
+A2|A4B2|A2z2d2|d2c2B2|A2z2d2|d2c2d2|d2c2B2|B2A2^G2|A4A2|
+A4B2|A2z2d2|d2c2B2|A2z2d2|d2c2d2|d2c2B2|B2A2^G2|A4||
+g2|g4f2|g4f2|g2bagf|e2z2b2|a4b2|a2g2f2|fe d2c2|d4g2|
+g4f2|g4f2|g2bagf|e2z2b2|a4b2|a2g2f2|fe d2c2|d4|]
+
+X:104
+T:104 Untitled Waltz
+C:Welch MS
+I:abc2nwc
+M:3/8
+L:1/16
+K:C
+(3gag f2d2|e4c2|def2a2|g4e2| (3gag f2d2|e4c2|Bc d2B2|c6|
+ (3gag f2d2|e4c2|def2a2|g4e2| (3gag f2d2|e4c2|Bcd2B2|c6||
+Bcd2B2|c4e2|def2a2|g4e2| (3gag f2d2|e4c2|Bcd2B2|c6|
+Bcd2B2|c4e2|def2a2|g4e2| (3gag f2d2|e4c2|Bcd2B2|c6|]
+
+X:105
+T:105 Untitled Waltz (Michael Turner's Waltz)
+C:Michael Turner's MS 
+N:According to Dan Quinn, originally a German Dance by Mozart
+I:abc2nwc
+M:3/4
+L:1/8
+K:G
+GA|B2BDcD|d2d2gf|e2e2ge|d2d2GA|B2BDcD|d2d2cA|G2G2AB|G2z2GA|
+B2BDcD|d2d2gf|e2e2ge|d2d2GA|B2BDcD|d2d2cA|G2G2AB|G2z2||
+AB|c2cdBc|A2A2Bc|d2decd|B2B2gf|e2e2ge|d2d2GA|B2BcAB|G2z2AB|
+c2cdBc|A2A2Bc|d2decd|B2B2gf|e2e2ge|d2d2GA|B2BcAB|G2z2|]
+
+X:106
+T:106 The Battle of the Nile
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:G
+"A"DD|G3G A3A|BABc d3G|c2B3/2c/2 A2G3/2G/2|A3/2G/2F3/2E/2 D2D2|
+G3G A3A|B3/2A/2B3/2c/2 d2e3/2d/2|cBAG BAGF|G2G3/2G/2 "Fine"G2:|
+B3/2B/2|d2B3/2B/2 d3e|edcB c2A2|c2A3/2A/2 c2c2|d3/2c/2B3/2A/2 B3/2A/2GD/2D/2|
+GGGG A2AA|B3/2A/2B3/2c/2 d2DD|GGGG AAAA|BABc d3B|ddee edcB|"A al Fine"c2B2A2|]
+
+X:107
+T:107 Leavie Gordon
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:G
+G3/2A/2 B3/2A/2 GE A2|G3/2A/2 B3/2c/2 de g2|ed gB AG A2|G3/2A/2 B3/2A/2 GE G2||
+G2B3/2A/2 GE G2|G3/2A/2 B3/2c/2 de g2|e3/2d/2 gB AG A A3/4|G3/2A/2 B3/2A/2 G3/2E/2 G3/4|]
+
+X:108
+T:108 The Marquis of Granby's March
+C:Welch MS
+I:abc2nwc
+M:2/4
+L:1/16
+K:G
+GA|B2G2B2G2|A2D2D2D2|c2A2c2A2|BcdB G2d2|e4f4|g2fe d2c2|B4A4|G6:|
+d2|g3ag2f2|e2e2e2e2|a2b2a2g2|f6e2|g2f2e2d2|
+c2Bc A2g2|f6e2|d6d2|g3ag2f2|e6d2|e2d2c2B2|A6|]
+
+X:109
+T:109 The New Coldstream March
+C:Aylmore MS
+I:abc2nwc
+M:C|
+L:1/8
+K:D
+A3/2F/2|D2d3/2A/2 F2A3/2F/2|G2g4e3/2g/2|f3/2a/2d3/2f/2 e3/2g/2c3/2e/2|d2d3/2d/2 d2A3/2F/2|
+D2d3/2A/2 F2A3/2F/2|G2g4e3/2g/2|f3/2a/2d3/2f/2 e3/2g/2c3/2e/2|d2d3/2d/2 d2|
+A3/2c/2|e2c3/2e/2 g2e3/2g/2|f3/2a/2d3/2f/2 e2A3/2c/2|e2c3/2e/2 g2e3/2g/2|f3/2a/2d3/2f/2 e2A3/2F/2|
+D2d3/2A/2 F2A3/2F/2|G2g4e3/2g/2|f3/2a/2d3/2f/2 e3/2g/2c3/2e/2|d2d3/2d/2 d2:|
+
+X:110
+T:110 Tibbie Fowler
+C:Welch MS
+N:STB has comment under B music "perhaps C should be sharpened".
+N:Presumably referring to 1st bar of B music only. I prefer it natural
+I:abc2nwc
+M:C
+L:1/8
+K:G
+A/2A3/2 A3/2B/2 F3/2G/2 A3/2d/2|e/2A3/2 A3/2B/2 G3/2E/2 D3/2D/2|A/2A3/2 A3/2B/2 G3/2A/2 Bd|e/2A3/2 A3/2B/2 GE EE||
+fe ec d3/2e/2 dB|ge eg a3/2b/2 ge|d3/2e/2 ga e/2g3/2 dB|cA AB GE EE|]
+
+X:111
+T:111 Untitled March
+C:Welch MS
+I:abc2nwc
+M:4/4
+L:1/8
+K:D
+A2|d2d3/2d/2 c3/2d/2e3/2c/2|d2d3/2d/2 d2zA|f3f e3/2f/2g3/2e/2|f2f3/2f/2 f2z2|
+d3e f3/2f/2e3/2d/2|c3/2A/2c3/2e/2 a3g|f3/2a/2f3/2d/2 c2B2|A2A3/2A/2 A2:|
+A2|a3g f3/2d/2f3/2a/2|g2 (3gab e2zA|g3g e3/2c/2e3/2g/2|f2 (3fga d2zA|
+d3/2f/2e3/2g/2 f3d|f3/2a/2g3/2b/2 a3g|f3/2a/2b3/2g/2 f3e|d2d3/2d/2 d2:|
+
+X:112
+T:112 Untitled March
+C:Welch MS
+I:abc2nwc
+M:4/4
+L:1/8
+K:C
+G2|c2c3/2c/2 c2c3/2d/2|d2d3/2d/2 d2d2|e2dc g2fe|d2d3/2d/2 d2G2|
+c2c3/2c/2 cG EG|A2A3/2A/2 f3e| (3dcB  (3gfe e2d2|c2c3/2c/2 c2:|
+ed|c2GE C2ed|c2GE C2ed|e2dc g2fe|d2d3/2d/2 d2ed|
+c2GE C2ed|c2GE C2ed| (3edc  (3gfe e2d2|c2c3/2c/2 c2:|
+
+X:113
+T:113 The Grinders
+C:Welch MS
+I:abc2nwc
+M:9/8
+L:1/8
+K:G
+gfg edc BAG|gfg efg afd|gfg edc BAG|ABA A2B d2B|
+gfg edc BAG|gfg efg afd|gfg edc BAG|ABA A2B d2B||
+ABA A2B G2E|ABA A2B d2B|ABA A2B G2E|dBG GBc d2B|
+ABA A2B G2E|ABA A2B d2B|ABA A2B G2E|dBG GBc d2B |]
+
+X:114
+T:114 Sweet Robin
+C:Welch MS
+I:abc2nwc
+M:9/8
+L:1/8
+K:G
+g|dcB AGA dBg|dcB AGA B2g|dcB AGA BGg|dcB AGA G2d|
+gfg agf edB|gfg afd g2d|gfg agf efg|dgB AGA B2g |
+dcB AGA dBg|dcB AGA B2g|dcB AGA dBg|fed def g2|]
+
+
+X:115
+T:115 Cheshire Rounds
+C:Welch MS
+I:abc2nwc
+M:6/4
+L:1/8
+K:D
+g2f2e2d2f2a2|g2e2e2d2c2A2|g2f2e2d2f2a2|A2d2d2A2F2D2|
+g2f2e2d2f2a2|g2e2e2d2c2A2|g2f2e2d2f2a2|A2d2d2A2F2D2||
+G2B2F2A2E4|E2e2e2d2c2A2|G2B2F2A2E4|D2d2d2A2F2D2|
+G2B2F2A2E4|E2e2e2d2c2A2|G2B2F2A2E4|D2d2d2A2F2D2|]
+
+
+X:116
+T:116 The Dusty Miller
+C:Welch MS
+I:abc2nwc
+M:6/4
+L:1/8
+K:G
+B2c2d2B2A2G2|F2A2A2B2c2A2|B2c2d2B2A2G2|D2G2G2A2B2G2|
+B2c2d2B2A2G2|F2A2A2B2c2A2|B2c2d2B2A2G2|D2G2G2A2B2G2||
+B2c2d2e2f2g2|a2A2A2B2c2A2|B2c2d2e2f2g2|g2G2G2A2B2G2|
+B2c2d2e2f2g2|a2A2A2B2c2A2|B2c2d2e2f2g2|g2G2G2B2c2A2|]
+
+
+X:117
+T:117 The Duke Of Cornwall's Reel
+C:Aylmore MS
+I:abc2nwc
+M:C
+L:1/8
+K:D
+^A|:D3F FEFA|D3F FE E2|D3F FEFA|BdBA F2EA:|
+d2d2dAFA|d2d2dgfe|d2d2dAFA|BdBG F2F2:|
+afaf gege|fdfd ec A2|afaf gege|fedc c2d2:|
+Adfd efge|fdcd ec A2|Adfd efge|fdAc d2d2:|
+
+
+X:118
+T:118 The Haland Ladde (Kate Dalrymple)
+C:Shoosmith MS
+I:abc2nwc
+M:C|
+L:1/8
+K:G
+D2|G2GB A2AB|G2GB A2B2|G2g2edcB|ABcA B2G2|
+G2GB A2AB|G2GB A2B2|G2g2edcB|ABcA B2G2|]
+d2de dgfe|d2de dcBc|d2de dgfe|d2d2d2B2|
+c2ce B2Bd|A2Ac B2A2|G2g2edcB|ABcA B2G2:|
+
+X:119
+T:119 MacDonald's Reel  or  Lolly Pops and Bulls' Eyes
+C:Welch MS
+I:abc2nwc
+M:C
+L:1/8
+K:G
+DGBG dGBG|DGBG cA A2|DGBG dGBG|AGAB G2G2|
+DGBG dGBG|DGBG cA A2|DGBG dGBG|AGAB G2G2||
+gfgd egdB|gfgd e2g2|gfgd egdB|AGAB G2G2|
+gfgd egdB|gfgd e2g2|gfgd egdB|AGAB G2G2|]
+
+X:120
+T:120 Untitled Reel
+C:Welch MS
+I:abc2nwc
+M:C|
+L:1/8
+K:G
+D|G2GD BGdB|c2ce dgfg|G2GD BGdB|ecAd BGGD|
+G2GD BGdB|c2ce dgfg|G2GD BGdB|ecAd BG G|
+d|g2ge fafd|e2ec BGdB|c2cA BdfB|cBAG FAFD|
+g2ge fafd|e2ec GdBG|cege Bdgd|ecAc B G G:|
+
+%%sep
+%%center Index
+%%begintext
+Page Tune Title
+1 1 Ashley's Hornpipe
+1 2 The College Hornpipe
+1 3 Del Caros Hornpipe
+2 4 The First of June
+2 5 From Night Till Morn
+3 6 The Gypsies Hornpipe
+3 7 Hereford Hornpipe
+4 8 Lord Cornwallis' Hornpipe
+4 9 Miss Baker's Hornpipe
+4 10 The New Speed The Plough
+5 11 The New Castle Hornpipe
+5 12 Richer's Hornpipe
+5 13 Salt Fish And Dumplings
+6 14 Stone Steps Hornpipe
+6 15 Untitled Hornpipe (Back of the Haggard)
+6 16 Untitled Hornpipe
+7 17 Untitled Hornpipe (Roxburgh Castle)
+7 18 Baker's Frolic
+7 19 The Banks of Swale
+8 20 La Belle Catherine or German Spaw
+%%endtext
+%%newpage
+%%center Index
+%%begintext
+Page Tune Title
+8 21 The Bohemian Polka
+9 22 The Bugle Horn
+9 23 The Camp
+9 24 The Fall of Paris
+10 25 Foul Weather Call
+10 26 Galloway Girth
+10 27 The Honeymoon
+10 28 Hunt The Squirrel
+11 29 Jeannet and Jeannot
+12 30 Jenny Lind's Polka
+12 31 Last Valentine's Day
+12 32 Laura and Lenza
+13 33 Miss Molly's Jid
+13 34 The Original Scottische Polka
+13 35 Pleal's Allemand
+14 36 Polish Polka
+14 37 Redowa Polka
+14 38 Rink-a-Tink
+15 39 The Russian Dance
+15 40 Slingsby's Allemande
+15 41 The Tartar
+16 42 This My Lady
+17 43 A Waterloo Dance
+17 44 Water Loo Fair or The Henryco
+18 45 Wentworth House
+18 46 What A Beau My Granny Was
+18 47 Unititled Polka
+19 48 Untitled Polka ("Welch's 4-part")
+19 49 Untitled Polka
+20 50 Untitled Polka
+20 51 Untitled Polka
+20 52 Untitled Polka
+21 53 Andrew Mack
+22 54 The Ball
+22 55 Bonny Part's Birth Day
+22 56 Brothers in York
+%%endtext
+%%newpage
+%%center Index
+%%begintext
+Page Tune Title
+22 57 Captain Lanoe's Quick March
+23 58 Captain O Cain
+23 59 The Comical Fellow
+23 60 Falmouth Assembly
+24 61 The French Dance
+24 62 The Golden Fish
+24 63 The Haymaker's Dance
+24 64 Jack's Ramble
+25 65 A Jigg Ashling
+25 66 A Jig By Greenland
+25 67 John of Paris
+25 68 Lady Mary Douglas
+26 69 La Damoiselle
+26 70 The Legacy or New Mown Hay (William & Nancy)
+26 71 Manfrend
+27 72 Morgan Ratler
+27 73 Morgiana in Ireland
+28 74 Morgiana in Spain
+28 75 Murphy Delany
+28 76 The Muses
+28 77 The New Moon
+29 78 Paddy Carrey
+29 79 Pendean Dance in Tekile
+29 80 The Pilgrim
+29 81 Poor Soldier
+30 82 The Rosetta
+30 83 Tekili
+30 84 The Troublesome Cossack
+31 85 The Villagers
+31 86 Waterloo
+31 87 Untitled Jig
+32 88 Untitled Jig (The Royal Albert)
+32 89 The Bath Waltz
+33 90 Brunswick Waltz
+33 91 The Commet Waltz
+34 92 The Duke of York's New Short Step by William Ebrington
+%%endtext
+%%newpage
+%%center Index
+%%begintext
+Page Tune Title
+34 93 Die Elfen Waltz
+34 94 The Emperor of Alexander's Wa;tz
+35 95 The French Assembly
+35 96 Lady Villier's Delight
+35 97 Lieber Augustine
+36 98 The London Troop
+36 99 My Skiff is on de Shore
+37 100 When Chloe
+38 101 Untitled Waltz
+38 102 Untitled Waltz
+39 103 Untitled Waltz
+39 104 Untitled Waltz
+40 105 Untitled Waltz (Michael Turner's Waltz)
+40 106 The Battle of the Nile
+40 107 Leavie Gordon
+41 108 The Marquis of Granby's March
+41 109 The New Coldstream March
+41 110 Tibbie Fowler
+42 111 Untitled March
+42 112 Untitled March
+42 113 The Grinders
+43 114 Sweet Robin
+43 115 Cheshire Rounds
+43 116 The Dusty Miller
+44 117 The Duke Of Cornwall's Reel
+44 118 The Haland Ladde (Kate Dalrymple)
+44 119 MacDonald's Reel  or  Lolly Pops and Bulls' Eyes
+45 120 Untitled Reel
+%%endtext
